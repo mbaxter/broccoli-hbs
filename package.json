@@ -1,0 +1,30 @@
+{
+  "name": "broccoli-hbs",
+  "version": "0.0.0",
+  "description": "Compile handlebars templates to html",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbaxter/broccoli-hbs.git"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "handlebars",
+    "hbs"
+  ],
+  "author": {
+    "name": "mbaxter"
+  },
+  "dependencies": {
+    "handlebars": "~2.0.0-alpha.2",
+    "broccoli": "~0.7.2",
+    "broccoli-filter": "~0.1.6"
+  },
+  "devDependencies": {
+    "broccoli": "~0.7.2"
+  },
+  "engines": {
+    "node": ">=0.11.11"
+  }
+}
