@@ -1,3 +1,7 @@
+## Deprecation Warning
+This package is not actively maintained.  For a more full-featured implementation, 
+see [broccoli-render-handlebars](https://www.npmjs.com/package/broccoli-render-handlebars).
+
 ## Usage
 
 Example Brocfile:
